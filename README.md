@@ -1,2 +1,2 @@
-# UTSA-President-s-Models
+# UTSA-Presidents-Models
 Created scripts to automate graphs used by the president of UTSA's website.
